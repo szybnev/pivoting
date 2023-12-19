@@ -37,5 +37,5 @@
 # Exfiltration
 ## NTP
 [ntpescape](https://github.com/evallen/ntpescape) - A reasonably stealthy NTP data exfiltration client.
-## FTT
+## File Transfer
 [FTT (Fast Transfer Tool](https://github.com/SidneyJob/FTT) -  Utility for quick file sharing tool. 
